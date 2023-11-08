@@ -6,6 +6,7 @@ Project ini saya kerjakan menggunakan ponsel dan aplikasi termux.
 Sebelum mengerjakan project ini, beberapa tools perlu di unduh pada aplikasi termux.
 Berikut tools dan cara menginstallnya:
 
+---
    1. Git
       ```
       pkg installl git
@@ -19,22 +20,24 @@ Berikut tools dan cara menginstallnya:
       pkg install nginx
       ```
       
-      https://www.dicoding.com/academies/387/tutorials/23178/submission-guidance
-
 ---
 
-Untuk menjalankan project ini, `npm` harus terinstall di perangkat/laptop pribadi:
-
-Tata cara menjalankan project:
-
-1. Install node_modules
-   ```
-   npm install
-   ```
-
-2. Jalankan project
-   ```
-   npm run start
-   ```
-
+Sekarang kita mulai mengerjakan project, diawali dengan mengkloning repositori yang sudah di sediakan Dicoding.
+Berikut cara mengkloning repositori:
+```
+git clone https://github.com/dicodingacademy/a387-jarkom-labs.git
+```
+Jika sudah selesai mengkloning kita akan mendapatkan folder dengan nama **a387-jarkom-labs**, Pindah ke folder tsb dengan menggunakan perintah:
+```
+cd a387-jarkom-labs
+```
+kita akan menemukan beberapa file di dalam folder tsb.
+Lalu ketikan perintah:
+```
+npm install
+```
+Untuk mendapatkan node_modules, jalankan aplikasi menggunakan perintah:
+```
+npm run start
+```
 
