@@ -1,9 +1,25 @@
 # Submission Project Web Server
 
-Project ini adalah submission dari Dicoding untuk melatih dan mengasah kemampuan
+Project ini saya kerjakan menggunakan ponsel dan aplikasi termux.
 
-sebelum mengerjakan project ini, pahami kriteria yang sudah di berikan Dicoding pada link dibawah ini:
-https://www.dicoding.com/academies/387/tutorials/23178/submission-guidance
+
+Sebelum mengerjakan project ini, beberapa tools perlu di unduh pada aplikasi termux.
+Berikut tools dan cara menginstallnya:
+
+   1. Git
+      ```
+      pkg installl git
+      ```
+   2. NodeJs
+      ```
+      pkg install nodejs
+      ```
+   3. Nginx
+      ```
+      pkg install nginx
+      ```
+      
+      https://www.dicoding.com/academies/387/tutorials/23178/submission-guidance
 
 ---
 
