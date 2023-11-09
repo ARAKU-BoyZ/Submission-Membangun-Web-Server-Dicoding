@@ -41,3 +41,4 @@ Untuk mendapatkan node_modules, jalankan aplikasi menggunakan perintah:
 npm run start
 ```
 
+---
